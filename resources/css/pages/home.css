@@ -1,0 +1,86 @@
+.users
+{
+    position: relative;
+    width: 100%;
+    padding: 2rem 0;
+}
+.users .title
+{
+    position: relative;
+    width: 100%;
+    font-weight: 700;
+    text-align: center;
+}
+.users table.users-table
+{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    margin-top: 1.5rem;
+    border-collapse: collapse;
+}
+.users table thead
+{
+    background: #fff;
+    border: 2px solid #fff;
+}
+.users table thead th
+{
+    font-weight: 700;
+    padding: 5px 10px;
+    color: #000;
+}
+.users table tbody
+{
+    border: 2px solid #fff;
+}
+.users table tbody td
+{
+    padding: 5px 10px;
+}
+.download-text
+{
+    font-weight: 700;
+    text-align: center;
+    color: #29F251;
+}
+.generators
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.generators .item
+{
+    position: relative;
+    padding: 0.75rem 2.25rem;
+    color: #fff;
+    border-radius: 1rem;
+    cursor: pointer;
+    transition: .5s;
+}
+.generators .item:hover
+{
+    background: rgba(255, 255, 255, .2);
+    backdrop-filter: blur(10px);
+}
+.generators .item .image
+{
+    position: relative;
+    margin: 0 auto;
+}
+.generators .item .image img
+{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.generators .item p.name
+{
+    font-weight: 700;
+    text-align: center;
+    margin-top: 1rem;
+    transition: .5s;
+}
+
