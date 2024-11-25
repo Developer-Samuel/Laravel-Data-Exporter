@@ -1,6 +1,6 @@
 ## About Project
 
-It is a Laravel project that allows exporting data to multiple file formats including XLSX, XML, TXT, and CSV.
+It's a Laravel project that allows exporting data to multiple file formats including XLSX, XML, TXT, and CSV.
 
 ## Requirements
 
